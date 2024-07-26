@@ -28,3 +28,4 @@ You can view the interactive Tableau dashboards for this project on Tableau Publ
    - The script will update the dataset with the "Salary in USD" column.
 
 ## License
+This work © 2024 by Huseynov Yaqub is licensed under CC BY-NC 4.0 
