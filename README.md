@@ -21,7 +21,7 @@ This project involves analyzing salary data with varying currencies by convertin
 
 You can view the interactive Tableau dashboards for this project on Tableau Public:
 
-- [View Tableau Dashboard]([https://public.tableau.com/app/profile/yaqub.huseynov/viz/Currency_Conversion_Project/Dashboard1?publish=yes](https://public.tableau.com/app/profile/yaqub.huseynov/viz/Currency_Conversion_Project/Industry))
+ [View Tableau Dashboard]([https://public.tableau.com/app/profile/yaqub.huseynov/viz/Currency_Conversion_Project/Dashboard1?publish=yes](https://public.tableau.com/app/profile/yaqub.huseynov/viz/Currency_Conversion_Project/Industry))
 
 ## Data Conversion:
    - Run the provided Python script to scrape currency exchange rates and convert the salaries to USD.
